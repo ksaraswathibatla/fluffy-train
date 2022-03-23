@@ -4,7 +4,7 @@ This is a timeline and the books needed for the interview preparation. Structuri
 
 It's not Rocket Science, it just needs a lot of practice and mindful preparation. 
 
-Word of Advice: It's going to suck hard initially. I spent 5 hours solving an Easy Leet code problem once. It's going to get better. Believe Black Jesus and keep grinding. 😂
+Word of Advice: It's going to suck hard initially. I spent 5 hours solving an Easy Leet code problem once. It's going to get better. Believe in Black Jesus and keep at it. 😂
 
 #### CODING INTERVIEW
 Pick your favorite language and keep grinding on Leet Code. 
